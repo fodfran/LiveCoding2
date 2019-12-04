@@ -1,0 +1,11 @@
+/Users/francesca/lc101/csharp-exercises/LongRepeat/bin/Debug/netcoreapp3.0/LongRepeat
+/Users/francesca/lc101/csharp-exercises/LongRepeat/bin/Debug/netcoreapp3.0/LongRepeat.deps.json
+/Users/francesca/lc101/csharp-exercises/LongRepeat/bin/Debug/netcoreapp3.0/LongRepeat.runtimeconfig.json
+/Users/francesca/lc101/csharp-exercises/LongRepeat/bin/Debug/netcoreapp3.0/LongRepeat.runtimeconfig.dev.json
+/Users/francesca/lc101/csharp-exercises/LongRepeat/bin/Debug/netcoreapp3.0/LongRepeat.dll
+/Users/francesca/lc101/csharp-exercises/LongRepeat/bin/Debug/netcoreapp3.0/LongRepeat.pdb
+/Users/francesca/lc101/csharp-exercises/LongRepeat/obj/Debug/netcoreapp3.0/LongRepeat.csprojAssemblyReference.cache
+/Users/francesca/lc101/csharp-exercises/LongRepeat/obj/Debug/netcoreapp3.0/LongRepeat.AssemblyInfoInputs.cache
+/Users/francesca/lc101/csharp-exercises/LongRepeat/obj/Debug/netcoreapp3.0/LongRepeat.AssemblyInfo.cs
+/Users/francesca/lc101/csharp-exercises/LongRepeat/obj/Debug/netcoreapp3.0/LongRepeat.dll
+/Users/francesca/lc101/csharp-exercises/LongRepeat/obj/Debug/netcoreapp3.0/LongRepeat.pdb
